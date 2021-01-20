@@ -1,0 +1,15 @@
+
+public class TestVariables {
+	public static void main(String[] args) {
+		int age = 23;
+		
+		System.out.println("Hello new test");
+
+		System.out.print("Age: ");
+		System.out.println(age + 5);
+		System.out.println(age / 2);
+		System.out.println(age * 2);
+		
+		System.out.println("Original age: " + age + ".");
+	}
+}

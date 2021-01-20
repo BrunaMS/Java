@@ -1,0 +1,9 @@
+public class CreateAccount {
+	public static void main(String[] args) {
+		Account firstAccount;
+		firstAccount = new Account();
+		firstAccount.balance = 200;
+		
+		System.out.println(firstAccount.balance);
+	}
+}

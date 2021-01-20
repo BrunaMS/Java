@@ -1,0 +1,17 @@
+
+public class TestChars {
+	public static void main(String[] args) {
+		char letter = 'a';
+		System.out.println(letter);	
+		System.out.println((int)letter);	
+		
+		char value = 65;
+		System.out.println(value);
+		System.out.println((int)value);
+		
+		String word = "Alura online courses";
+		System.out.println(word + " " + 2020);
+		
+	}
+
+}

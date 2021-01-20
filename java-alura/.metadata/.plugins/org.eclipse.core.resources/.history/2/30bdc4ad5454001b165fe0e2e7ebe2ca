@@ -1,0 +1,9 @@
+
+public class TestConversion {
+	public static void main(String[] args) {
+		double salary = 1000.5;
+		int salaryInt = (int)salary;
+		
+		System.out.println("Salary: " + salaryInt);
+	}
+}

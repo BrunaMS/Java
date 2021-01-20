@@ -1,0 +1,11 @@
+
+public class TestVariables {
+	public static void main(String[] args) {
+		System.out.println("Hello new test");
+		
+		int age = 23;
+		System.out.print("Age: ");
+		System.out.println(age + 5);
+		
+	}
+}

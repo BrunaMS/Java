@@ -1,0 +1,11 @@
+public class Account{
+	double balance;
+	int agency;
+	int number;
+	String owner;
+
+	public static void main(String[] args) {
+		
+	}
+}
+

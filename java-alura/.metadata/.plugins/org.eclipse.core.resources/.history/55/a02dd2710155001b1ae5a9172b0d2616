@@ -1,0 +1,13 @@
+
+public class TestConditionals {
+	public static void main(String[] args) {
+		System.out.println("Testing conditionals");
+		
+		int age = 20;
+		
+		if(age >= 18) {
+			System.out.println("You're more than 18 years");
+			System.out.println("WElcome");
+		}
+	}
+}

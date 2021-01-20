@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;TestLops.java&apos; to &apos;TestLoops.java&apos;&#x0A;- Original project: &apos;sintax-flow-variables&apos;&#x0A;- Original element: &apos;TestLops.java&apos;&#x0A;- Renamed element: &apos;TestLoops.java&apos;" description="Rename compilation unit &apos;TestLops.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{TestLops.java" name="TestLoops.java" references="false" stamp="1610476164207" version="1.0"/>
+</session>

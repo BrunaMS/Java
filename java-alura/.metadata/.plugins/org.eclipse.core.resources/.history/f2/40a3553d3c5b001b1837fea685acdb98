@@ -1,0 +1,8 @@
+
+public class testReferences {
+	public static void main(String[] args) {
+		Account firstAccount = new Account;
+		firstAccount.
+		
+	}
+}

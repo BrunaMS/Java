@@ -1,0 +1,21 @@
+
+public class TestConversion {
+	public static void main(String[] args) {
+		double salary = 1000.5;
+		int salaryInt = (int)salary; // 32 bits
+		
+		long longNumber = 123456L; // without int after "long". It's using 64 bits 
+		short shortNumber; // 16 bits 
+		// byte 1; // ?
+		System.out.println("Salary: " + salaryInt);
+		
+		double value1 = 0.1;
+		double value2 = 0.2;
+		float value3 = 3.14f;
+		
+		System.out.println(value1 + value2);
+		System.out.println((float)value1 + value2);
+		System.out.println(value3);
+		
+	}
+}

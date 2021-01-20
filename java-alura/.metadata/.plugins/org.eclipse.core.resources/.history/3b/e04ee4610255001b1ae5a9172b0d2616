@@ -1,0 +1,24 @@
+
+public class TestConditionals {
+	public static void main(String[] args) {
+		System.out.println("Testing conditionals");
+		
+		int age = 15;
+		int anotherAge = 25;
+		int qntdPeople = 2;
+		
+		if(age >= 18 || (qntdPeople > 1 && anotherAge >= 18)) {
+			System.out.println("You're more than 18 years or you're accompanied (I don't know)");
+			System.out.println("Welcome");
+		}
+		else {
+//			if(anotherAge >= 18) {
+//				System.out.println("Welcome! You can enter because you're accompanied");
+//			}
+//			else {
+			System.out.println("Unfortunately you aren't more than 18 years");
+			}
+	
+		}
+	}
+}

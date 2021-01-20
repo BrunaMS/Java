@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+/home/brunamedeiros/Documents/bruna/Cursos/Java/java-alura/.metadata/.plugins/org.eclipse.jdt.core
+3496156973.index
+1616125002.index
+3355972432.index
+1483308618.index

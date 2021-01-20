@@ -1,0 +1,10 @@
+public class Account{
+	double balance;
+	int agency;
+	int number;
+	String owner;
+}
+
+// Default - 0 (int and double)
+// 		   - ??? (String)
+//		   - 0 ASCII (Char)
